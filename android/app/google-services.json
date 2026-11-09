@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340074270326",
+    "project_id": "shop-ease-a8cc1",
+    "storage_bucket": "shop-ease-a8cc1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340074270326:android:1bdfa8fdfd27ed8c245957",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340074270326-h7j4d8gkqdljsg8avtsarm85mjj3k9us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_commerce_app",
+            "certificate_hash": "65818cba29065bbe2784c3a11ff33edd4d251347"
+          }
+        },
+        {
+          "client_id": "340074270326-cmqhuh1bf28202tu0llei909v6d22hvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQa_2ZtFoO4BiyPtSNRfCwpn4nHwx_HK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340074270326-cmqhuh1bf28202tu0llei909v6d22hvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

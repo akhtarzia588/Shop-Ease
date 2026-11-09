@@ -21,7 +21,7 @@ class _WelcomeState extends State<Welcome> {
       if (!mounted) return;
       Navigator.pushNamedAndRemoveUntil(
         context,
-        AppRoutes.homescreen,
+        AppRoutes.Navbar,
         (route) => false,
       );
     });
